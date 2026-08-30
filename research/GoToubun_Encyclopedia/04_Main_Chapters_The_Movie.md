@@ -1,4 +1,4 @@
-# 🎬 SECTION 2 — MAIN CHAPTERS: THE MOVIE
+# 🎬✨ SECTION 2 — MAIN CHAPTERS: THE MOVIE
 ### *"Eiga Go-Tōbun no Hanayome" (映画 五等分の花嫁) — The Finale Encyclopedia*
 **Project:** Houston National Wattpad Challenge 2027 (OC Edition) · **Author:** H.A.N.A. 🤓
 **File:** 04_Main_Chapters_The_Movie.md · **Method:** 3 Rounds (this doc grows with every round)
