@@ -139,35 +139,55 @@ Sabe del secreto desde siempre. No lo considera un secreto. Motor de trama del C
 
 ---
 
-## PARTE C — ELEMENTOS ORIGINALES
+## PARTE C — EL CANON OTAKU DEL FIC
 
-### C.1 El anime dentro del anime: *Hagane no Ōkami* ("Loba de acero")
+*(Revisión 2: se eliminan los sustitutos ficticios. Todas las series y personajes son reales.)*
 
-Para no depender de licencias reales en las escenas centrales, el fic inventa una serie con la que Fuutarou está obsesionado. Los títulos reales (*My Hero Academia* sobre todo) se mencionan como fondo, igual que el canon menciona a Takeda Shingen.
+### C.1 La serie del corazón: *My Hero Academia*
 
-- **Género:** shōnen de acción con capa de drama familiar.
-- **La waifu — Kurogane Rin:** una chica orgullosa, de lengua afilada, que sostiene sola a un equipo entero y **no sabe pedir ayuda**. Su arco: aprender que aceptar apoyo no es perder.
-- **Por qué él la eligió:** porque es la única del elenco que carga con todo sin quejarse. Él la admira. Nunca se ha preguntado por qué.
-- **Por qué duele:** cuando Nino investiga a fondo el personaje para imitarlo, descubre que **la waifu de Fuutarou ya se le parece**. No tiene que convertirse en nadie. Y eso desarma toda su estrategia en el momento exacto en que estaba a punto de ganar.
+No es su "favorita" en el sentido de la mejor. Es la que lo desarmó.
 
-Frase-motivo de Rin, que atraviesa el fic: *"Puedo sola."* — dicha con orgullo en el Cap. 3, con rabia en el 9, y rota en el 11.
+Su motivación canónica —*"quiero convertirme en alguien que sea necesitado algún día"*— es palabra por palabra el motor de Izuku Midoriya: un chico sin nada, sin talento, sin dinero, con una madre sola, que decide ser el soporte de otros. Fuutarou vio el primer episodio a los trece años en una laptop prestada del café cerrado de su familia, con audífonos para no despertar a Raiha, y **no pudo explicarse por qué estaba llorando**.
 
-### C.2 La seiyū: **Kanade Amamiya**
+Nunca se lo ha dicho a nadie. Es el núcleo del Capítulo 9.
 
-- 29 años. Voz de Kurogane Rin. Veterana, cínica, elegante, agotada.
-- Llega por la agencia de Ichika (rodaje o evento promocional).
+Detalle delator: recita el ranking de héroes profesionales de memoria y lo justifica con argumentos. Cuando lo hace por accidente delante de Nino, se le nota que **lo ha pensado durante años sin nadie a quien contárselo**. Su memoria canónica (decenas de libros en tres días) lo convierte en un archivo andante: números de tomo, estudios, staff, seiyū.
+
+### C.2 La waifu: **Rin Tōsaka** (*Fate/stay night*)
+
+- **Quién es:** orgullosa, lengua afilada, perfeccionista obsesiva con su imagen pública, brillante y **catastróficamente incapaz de pedir ayuda**. En privado es un desastre y se muere antes que admitirlo. Hace todo por los demás y lo disfraza de cálculo frío.
+- **Por qué él la eligió:** él cree que es "porque es la más competente del elenco". Esa es la mentira que se cuenta a sí mismo.
+- **El puñal (motor del Acto III):** cuando Nino investiga a fondo el personaje para imitarlo, descubre que **no tiene que convertirse en nadie**. Coletas con listones. Orgullo. Lengua filosa. Hacerlo todo por su familia y llamarlo obligación. La waifu de Fuutarou lleva años siendo ella. Y eso le desarma la estrategia justo cuando iba ganando: ya no puede saber si él la nota a ella o al arquetipo.
+- **Bonus visual:** el cosplay de Rin es casi gratis para Nino (listones, coletas, negro y rojo). Lo que vuelve el Cap. 5 mucho más cruel: **Ichika se lo roba y lo hace primero.**
+
+Frase-motivo: *"Yo puedo sola."* — con orgullo en el Cap. 3, con rabia en el 9, rota en el 11.
+
+### C.3 Una serie por hermana
+
+| Hermana | Serie | Por qué le pega exacto |
+|---|---|---|
+| **Nino** | *Fate/stay night* + *My Hero Academia* | Estudia el temario completo. Empieza por la waifu y termina enganchada con lo que no esperaba. |
+| **Ichika** | *Fate* — **le roba el cosplay a Nino** | Vestuario, peluquería y contactos. Monta en una tarde lo que Nino lleva semanas ganándose. |
+| **Miku** | *Vinland Saga* / *Kingdom* / *Sengoku Basara* | Su obsesión canónica con los generales del Sengoku **ya era esto**. No aprende nada: descubre que siempre estuvo dentro. |
+| **Yotsuba** | *Kaze ga Tsuyoku Fuiteiru* + *Haikyū!!* | Es corredora. Una serie sobre un equipo de atletismo y sobre gente que corre por razones que no se atreve a decir en voz alta. La destroza. |
+| **Itsuki** | *Ansatsu Kyōshitsu* + *Shokugeki no Sōma* | Quiere ser maestra: defiende la primera como "material didáctico, Uesugi-kun". Es glotona: la segunda la delata. |
+
+Esto vuelve el Cap. 4 mucho mejor: no es un consejo de guerra abstracto, es **cinco chicas repartiéndose un territorio**, y dos reclaman el mismo.
+
+### C.4 La seiyū: **Kanade Amamiya** *(único elemento original)*
+
+- 29 años. Veterana de doblaje, cínica, elegante, agotada. Llega por la agencia de Ichika.
+- Se mantiene como personaje original: meter a una actriz real y ponerla a decir diálogo que nunca dijo, en el papel de casi-antagonista, se siente distinto a citar una serie.
 - **No es un cameo, es la antagonista adulta.** Su función: decirles a las cinco lo que ninguna quiere oír.
-- Su línea nuclear (Cap. 8): *"Llevo diez años prestándole mi voz a chicas que otros aman. Puedo decirles algo desde aquí: ustedes cinco están peleándose por un chico al que nunca, ni una sola vez, le han preguntado qué quiere. Están compitiendo por el derecho a decidir por él."*
-- Espejo de Ichika: una actriz que se convirtió en la máscara. Le da a Ichika su capítulo más duro.
+- Línea nuclear (Cap. 8): *"Llevo diez años prestándole mi voz a chicas que otros aman. Puedo decirles algo desde aquí: ustedes cinco están peleándose por un chico al que nunca, ni una sola vez, le han preguntado qué quiere. Están compitiendo por el derecho a decidir por él."*
+- Espejo de Ichika: la actriz que terminó siendo la máscara.
 
-### C.3 La convención
+### C.5 La convención
 
-Escenario del clímax (Caps. 10–11): multitud, disfraces, un concurso de cosplay, pasillos infinitos, ruido. Funciones narrativas:
-1. **Público:** el secreto de Fuutarou deja de ser privado. Tiene que decidir si se avergüenza delante de todos.
+Escenario del clímax (Caps. 10–11). Funciones narrativas:
+1. **Público:** el secreto deja de ser privado. Tiene que decidir si se avergüenza delante de todos.
 2. **Físico:** cinco chicas idénticas + miles de personas disfrazadas = el problema de identidad de la serie llevado al extremo. Nino sin lentes de contacto. Miku disfrazándose mejor que nadie. El listón de Yotsuba delatándola.
-3. **Simbólico:** miles de personas viviendo abiertamente lo que él vive dos horas al día encerrado. La convención le demuestra que **no estaba solo, solo estaba escondido.**
-
----
+3. **Simbólico:** miles de personas viviendo abiertamente lo que él vive dos horas al día encerrado. Le demuestra que **no estaba solo, solo estaba escondido.**
 
 ## PARTE D — MOTIVOS, REGLAS DE ESTILO Y TONO
 
@@ -175,7 +195,7 @@ Escenario del clímax (Caps. 10–11): multitud, disfraces, un concurso de cospl
 - **La caja de detergente** bajo la cama → cerrada (Cap. 1), entreabierta (Cap. 9), abierta y a la vista (Cap. 11).
 - **El cuaderno de fichas de Nino** → arma (Cap. 2), delación (Cap. 3), prueba de amor (Cap. 10). Debe caérsele en el peor momento posible.
 - **El reloj de las dos horas** → la alarma que él pone. En el Cap. 9 la apaga por primera vez.
-- **"Quiero ser alguien que alguien necesite"** → dicho por Fuutarou, por Deku, y por Kurogane Rin al revés ("puedo sola"). Nino es la que cierra el círculo.
+- **"Quiero ser alguien que alguien necesite"** → dicho por Fuutarou, por Deku, y por Rin Tōsaka al revés ("puedo sola"). Nino es la que cierra el círculo.
 - **La chaqueta prestada** → recurso de tensión física, con la excusa canónica de que Nino se cubre del sol/frío y de que él es un tacaño que no compra ropa.
 - **El té negro con demasiada azúcar** de Nino contra el **té de cebada** de él: dos formas de aguantar.
 
@@ -192,9 +212,9 @@ Escenario del clímax (Caps. 10–11): multitud, disfraces, un concurso de cospl
   - Ichika: **"Fuutarou-kun"**, burlona.
   - Raiha: **"Onii-chan"**.
 
-### D.3 Tono +16 — qué sí y qué no
+### D.3 Tono — qué sí y qué no
 **Sí:** proximidad física prolongada, conciencia del cuerpo del otro, respiración, manos que se rozan y no se apartan, habitaciones pequeñas y cerradas, ropa prestada, dormir en el mismo cuarto sin que pase nada, celos con filo, cosplay que expone más de lo que la portadora calculó, lenguaje adulto puntual, una insinuación bien colocada por capítulo.
-**No:** nada explícito. Se corta siempre antes. **El motor es el deseo contenido**, no la consumación.
+**No:** escenas sexuales explícitas. Se corta siempre antes. **El motor es el deseo contenido**, no la consumación — y en este fic concreto la contención *es* el tema: va de un chico que esconde lo que desea.
 **Regla de oro:** la escena más caliente del fic debe ser una conversación.
 
 ---
@@ -221,7 +241,5 @@ Escenario del clímax (Caps. 10–11): multitud, disfraces, un concurso de cospl
 
 ## PENDIENTES ANTES DEL CAPÍTULO 1
 1. ¿Confirmas el título *La waifu de la segunda*?
-2. ¿Confirmas el anime ficticio *Hagane no Ōkami* / Kurogane Rin como waifu, con MHA de fondo?
-3. ¿POV alternante Nino–Fuutarou, o todo en tercera persona cercana?
-
-Con eso resuelto, escribo el Capítulo 1.
+2. ¿POV alternante Nino–Fuutarou en primera persona, o todo en tercera cercana?
+3. ¿Dejamos a la seiyū Kanade Amamiya como personaje original, o prefieres que sea una seiyū real?

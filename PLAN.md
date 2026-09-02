@@ -1,77 +1,138 @@
-# Plan de Producción — "La Waifu de la Segunda" (título provisional)
+# Plan de Producción — "La Waifu de la Segunda"
 
-Fanfic de 11 capítulos · Universo *Go-Tōbun no Hanayome* · Romance +16 · Ritmo de novela ligera
+Fanfic de 11 capítulos · Universo *Go-Tōbun no Hanayome* · Romance · Tensión alta, no explícito
+**Revisión 2** — se eliminan los sustitutos ficticios; ahora todas las referencias otaku son series reales.
 
 ---
 
-## FASE 1 — Investigación y biblia de personajes
+## Qué cambia en esta revisión
 
-### 1.1 Anclaje canónico
-La historia arranca justo **después del Capítulo 60 del manga** ("La conquista comienza"), donde Nino se confiesa a Fuutarou por segunda vez —esta vez asegurándose de que la escuche— y declara que no espera respuesta, sino que **hará que él la note**. Ichika escucha esa confesión a escondidas, lo que detona su propio conflicto interno.
+| Antes (Rev. 1) | Ahora (Rev. 2) |
+|---|---|
+| Anime ficticio *Hagane no Ōkami* y waifu inventada "Kurogane Rin" | **Series y personajes reales.** La waifu es **Rin Tōsaka** (*Fate/stay night*), con MHA como serie del corazón |
+| Referencias reales solo de fondo | Las referencias reales son **el material dramático**: cada hermana tiene su serie asignada y significa algo |
+| Seiyū OC voz de un personaje inventado | Seiyū OC **Kanade Amamiya**, veterana del medio (única pieza que sigue siendo original — ver nota) |
+| Tono "+16 suave" | **Tensión romántica alta y explícita en lo emocional**, no en lo sexual |
 
-Esto nos da un punto de divergencia perfecto: el canon ya puso a las cinco en movimiento (Miku decidida, Ichika en crisis moral, Yotsuba conteniéndose, Itsuki en negación). Nuestro fanfic sustituye el arco de "Huevos revueltos" por el arco **otaku**.
+**Nota sobre la seiyū:** es lo único que dejo inventado. Meter a una actriz de voz real y ponerla a decir diálogo que nunca dijo, en una trama donde es prácticamente la antagonista, se siente distinto a citar una serie. Kanade Amamiya queda como personaje original que trabaja en la industria real. Si prefieres que sea real, dímelo y lo cambio.
 
-Contexto que conservamos: segundo año, exámenes recién aprobados, San Valentín reciente, Raiha presente, la pobreza de los Uesugi, el trabajo de medio tiempo de Fuutarou, el apartamento Nakano.
+---
 
-### 1.2 El secreto (regla de oro del fic)
-Fuutarou no es otaku por capricho de trama: es **coherente con el canon**. Un chico que se aisló socialmente durante años, sin dinero para ocio, con una madre muerta y una hermana pequeña a la que criar. El manga de segunda mano a 100 yenes y el anime en horario nocturno fueron su única puerta de escape. *My Hero Academia* le funciona como escape porque el discurso de "convertirse en alguien que sea necesitado" (su motivación literal en el arco de las Siete Despedidas) es exactamente el discurso de Deku. **Eso es lo que Nino descubre: no un hobby, sino la herida.**
+## FASE 1 — Investigación *(completada, ver `BIBLIA.md`)*
 
-Reglas: dos horas máximo al día, nunca antes de estudiar, todo escondido bajo la cama en una caja de detergente. Jamás lo admitiría en voz alta.
+Anclaje: el fic arranca **dos días después del capítulo 60 del manga**. Fichas de los seis personajes, justificación canónica del secreto y motivos recurrentes están en la biblia. Lo único que se reescribe es la Parte C (elementos originales), que ahora es **Parte C — El canon otaku del fic**.
 
-### 1.3 Personalidades base y cómo las deforma el "factor anime"
+---
 
-| Personaje | Núcleo canónico | Deformación por el factor otaku |
+## FASE 2 — Página web *(completada)*
+
+`index.html`: portada, sinopsis, elenco, índice de los 11 capítulos con estado de publicación. Se actualiza el pie con la nueva nota de obra derivada.
+
+---
+
+## FASE 3 — El canon otaku (nuevo)
+
+### 3.1 La serie del corazón: *My Hero Academia*
+
+No es su "favorita" en el sentido de la mejor. Es la que lo desarmó.
+
+La motivación canónica de Fuutarou —*"quiero convertirme en alguien que sea necesitado algún día"*— es palabra por palabra el motor de Izuku Midoriya. Un chico sin nada, sin talento, sin dinero, con una madre sola, que decide que va a ser el soporte de otros. Fuutarou vio el primer episodio a los trece años en una laptop prestada del café cerrado de su familia, con audífonos para no despertar a Raiha, y **no pudo explicarse por qué estaba llorando**.
+
+Nunca se lo ha dicho a nadie. Es el núcleo del Capítulo 9.
+
+Detalle que lo delata: es capaz de recitar el ranking de héroes profesionales de memoria y de justificarlo con argumentos. Cuando lo hace por accidente delante de Nino, se le nota que **lo ha pensado durante años sin nadie a quien contárselo**.
+
+### 3.2 La waifu: **Rin Tōsaka** (*Fate/stay night*)
+
+Elegida porque el chiste se escribe solo y la puñalada también.
+
+- **Quién es:** orgullosa, lengua afilada, perfeccionista obsesiva con su imagen pública, brillante, y **catastróficamente incapaz de pedir ayuda**. En privado es un desastre y se muere antes que admitirlo. Hace todo por los demás y lo disfraza de cálculo frío.
+- **Por qué él la eligió:** él cree que es "porque es la más competente del elenco". Esa es la mentira que se cuenta.
+- **El puñal:** cuando Nino investiga a fondo al personaje para imitarlo, se da cuenta de que **no tiene que convertirse en nadie**. Coletas con listones. Orgullo. Lengua filosa. Hacerlo todo por su familia y llamarlo obligación. La waifu de Fuutarou lleva años siendo ella. Y eso le desarma la estrategia justo cuando iba ganando, porque ya no puede saber si él la nota a ella o al arquetipo.
+- **Bonus visual:** el cosplay de Rin es prácticamente gratis para Nino (listones, coletas, negro y rojo). Lo cual vuelve el Capítulo 5 mucho más cruel: **Ichika se lo roba y lo hace primero.**
+
+Frase-motivo del personaje, que atraviesa el fic: *"Yo puedo sola."* — con orgullo en el Cap. 3, con rabia en el 9, rota en el 11.
+
+### 3.3 Una serie por hermana
+
+Cada estrategia deja de ser genérica y pasa a tener un título concreto detrás:
+
+| Hermana | Serie | Por qué le pega exacto |
 |---|---|---|
-| **Nino** | Orgullosa, agresiva-defensiva, la más doméstica y la más honesta emocionalmente. Ya se confesó: es la única con las cartas sobre la mesa. | Entra al mundillo con la misma disciplina obsesiva con la que cocina. No finge que le gusta: **estudia**. Ironía central: la chica que odiaba estudiar hace fichas de personajes. Y descubre, con horror, que le empieza a gustar de verdad. |
-| **Ichika** | Actriz, manipuladora encantadora, culpa creciente. Escuchó la confesión de Nino. | Es la única con **acceso profesional** al mundo: agencia, seiyū, staff. Su arma es el cosplay y el contacto con la seiyū famosa. También su mayor tentación moral: puede comprar lo que Nino se está ganando. |
-| **Miku** | Insegura, murmurante, obsesionada con los generales del período Sengoku, competitiva en silencio. | La única con un "power level" previo: los guerreros históricos son su fandom. Se da cuenta de que **siempre fue una nerd** y que Fuutarou nunca se burló de eso. Su plan es el menos calculado y el más peligroso. |
-| **Yotsuba** | Solar, sacrificada, se pone última siempre. Trauma escolar previo. | Es la que más natural entra al hobby (energía shōnen pura) y la que más se autocensura: se prohíbe competir. Su capítulo es el que rompe al lector. |
-| **Itsuki** | Terca, gula, negación absoluta de sus sentimientos, quiere ser maestra. | Su vía de entrada es la comida del anime y el "análisis narrativo" (defiende que lo lee "como material didáctico"). La última en admitirlo, la que más se sonroja. |
-| **Fuutarou** | Rígido, honesto hasta lo brutal, cero registro romántico, terror al ridículo. | Su arco: pasar de la vergüenza al permiso de existir fuera del deber. El romance funciona porque **por primera vez alguien quiere conocerlo a él, no al tutor**. |
-| **Raiha** | Adora a las quintillizas, adora a su hermano. | Cómplice involuntaria: sabe del secreto desde siempre y lo suelta sin malicia. Motor de trama del Cap. 2. |
+| **Nino** | *Fate/stay night* (Rin) + método MHA | Es la que estudia el temario completo. Empieza por la waifu y termina enganchada con lo que no esperaba. |
+| **Ichika** | *Fate* también — **le roba el cosplay a Nino** | Tiene vestuario, peluquería y contactos. Puede montar en una tarde lo que Nino lleva semanas ganándose. Cap. 5. |
+| **Miku** | *Vinland Saga* / *Kingdom* / *Sengoku Basara* | Su obsesión canónica con los generales del Sengoku **ya era esto**. No aprende nada: descubre que siempre estuvo dentro. |
+| **Yotsuba** | *Kaze ga Tsuyoku Fuiteiru* (*Run with the Wind*) + *Haikyū!!* | Es corredora. La serie es sobre un equipo de atletismo y sobre gente que corre por razones que no se atreve a decir en voz alta. La destroza. |
+| **Itsuki** | *Ansatsu Kyōshitsu* (*Assassination Classroom*) + *Shokugeki no Sōma* | Quiere ser maestra: puede defender la primera como "material didáctico, Uesugi-kun" con total seriedad. Y es una glotona: la segunda la delata. |
 
-### 1.4 Elementos originales a construir
-- **La seiyū famosa:** personaje original (voz de la "waifu favorita" de Fuutarou), con contacto vía la agencia de Ichika. No un cameo: una antagonista adulta que le dice a las chicas una verdad incómoda.
-- **La convención:** batalla final. Escenario público, disfraces, un concurso, y la primera vez que Fuutarou tiene que elegir en qué mundo vivir.
-- **La "waifu":** personaje ficticio de un anime ficticio dentro del fic (para evitar depender de licencias reales y poder darle temática propia: una chica orgullosa que no sabe pedir ayuda — es decir, **Nino**). *My Hero Academia* y otros títulos reales se mencionan de fondo como en el canon.
+Esto convierte el Capítulo 4 ("Cinco planes") en algo mucho mejor: no es un consejo de guerra abstracto, es **cinco chicas repartiéndose un territorio**, y dos de ellas reclaman el mismo.
 
-### 1.5 Tono +16
-Tensión romántica, no explícito: proximidad física, respiración, manos, ropa prestada, habitaciones cerradas, celos, alguna insinuación y lenguaje adulto puntual. Se corta siempre antes. La regla es **deseo contenido**, que es el motor de la novela ligera.
+### 3.4 La seiyū y la convención
+
+- **Kanade Amamiya**, 29 años, veterana de doblaje. Llega por la agencia de Ichika. No es un cameo: es la adulta que les dice a las cinco lo que ninguna quiere oír. *"Llevo diez años prestándole la voz a chicas que otros aman. Ustedes están peleándose por un chico al que nunca le han preguntado qué quiere."*
+- **La convención:** clímax en los Caps. 10–11. Miles de personas viviendo abiertamente lo que él vive dos horas al día encerrado. La convención no le enseña que tiene un hobby: le enseña que **no estaba solo, solo estaba escondido.**
 
 ---
 
-## FASE 2 — Página web
-Landing page ya construida (`index.html` + `assets/`): portada, sinopsis, elenco, índice de los 11 capítulos con estado de publicación, y espacio para las notas de autor. Servirá como escaparate del proyecto de Wattpad y como índice de lectura conforme se escriban los capítulos.
+## FASE 4 — Estructura de los 11 capítulos
+
+Cuatro actos. 3.000–4.500 palabras por capítulo. Cierre con frase corta que reencuadra todo lo anterior.
+POV alternante en primera persona (Nino / Fuutarou), con capítulos corales en tercera cercana.
+
+### ACTO I — El descubrimiento
+
+**1. "Lo que hay debajo de la cama"** · *POV Nino*
+Dos días después de la confesión. Sesión de estudio en el apartamento Uesugi. Nino, insoportablemente incómoda con su propia declaración, llega antes de tiempo y lo encuentra con audífonos frente a una laptop que no debería estar encendida. Él la cierra tan rápido que casi la rompe. Ella finge no haber visto. Después, buscando un cargador, encuentra la caja de detergente bajo la cama.
+*Cierre: decide callarse. Ese silencio vale más que su confesión.*
+
+**2. "Investigación de campo"** · *POV Nino*
+Interroga a Raiha — dos personas que canónicamente casi nunca se han hablado, lo que vuelve la escena tensa y rarísima. Raiha suelta todo sin malicia, porque para ella no tiene nada de raro. Nino compra su primer tomo de segunda mano, se sienta a las 3 a.m. con el primer episodio de MHA y **llora**. Se enoja consigo misma. Abre el cuaderno de fichas.
+*Cierre: Ichika la ve entrar con la bolsa.*
+
+**3. "Prueba de conocimiento"** · *POV Fuutarou*
+Nino suelta una referencia exacta en mitad de una clase. Él se paraliza. Lo que sigue son dos horas de conversación sin tutoría de por medio — la primera de su vida sobre este tema, con nadie. Se le nota que lo ha pensado durante años en silencio.
+*Cierre: las otras cuatro entienden que Nino encontró una puerta.*
+
+### ACTO II — La carrera armamentística
+
+**4. "Cinco planes"** · *Coral*
+Consejo de guerra. El Principio Go-tōbun se somete a votación y se rompe. Cada hermana reclama un título. Ichika y Nino reclaman el mismo. Comedia pura y establecimiento de reglas.
+
+**5. "El uniforme equivocado"** · *POV Ichika*
+El cosplay de Rin, montado con recursos profesionales, puesto **antes** que Nino. Máxima tensión física del primer tramo. Y el golpe: **él reconoce el personaje antes que a la chica.** Para una actriz cuya herida canónica es la sonrisa falsa, oír "ah, eres Tōsaka" en vez de su nombre es demoledor. Ichika sabe que jugó sucio y lo hizo igual.
+
+**6. "Los generales y los héroes"** · *POV Miku*
+Miku y Fuutarou solos. Ella no tiene un plan: tiene un reconocimiento. Descubre que él ya sabía lo que se siente esconder una obsesión, porque le pasa lo mismo — y que cuando él le descubrió lo de Takeda Shingen, **no se burló ni una vez**. El capítulo más silencioso y el más peligroso, precisamente porque no es estrategia. Nino se entera y siente miedo real por primera vez.
+
+**7. "La que no compite"** · *POV Yotsuba → Itsuki*
+Yotsuba es la que más natural entra: canónicamente ya veía anime. Era la más compatible de las cinco sin esfuerzo alguno. Y se retira antes de empezar, porque su reflejo vital es ponerse última. Ve *Run with the Wind* con él y no dice nada de lo que quiere decir. Itsuki, defendiéndola furiosa delante de las otras, se delata a sí misma.
+*Golpe emocional del acto.*
+
+### ACTO III — La escalada
+
+**8. "La voz"** · *Coral*
+Llega Kanade Amamiya. Fuutarou queda expuesto delante de las cinco. La seiyū funciona como espejo de Ichika — la actriz que terminó siendo la máscara — y les dice a todas la verdad incómoda.
+
+**9. "Dos horas al día"** · *POV Fuutarou*
+El capítulo Nino–Fuutarou. Él le cuenta por qué existen esas dos horas: la regla que se impuso a los trece años, la laptop del café cerrado, su madre, y por qué lloró con el primer episodio sin entender por qué. Momento de mayor intimidad del fic. **Apaga la alarma por primera vez.** Y después viene la peor pelea, porque ella admite que empezó investigándolo como una estrategia.
+*Cierre: la convención es en tres días.*
+
+### ACTO IV — La convención
+
+**10. "Batalla final"** · *Coral*
+Cinco planes chocando entre la multitud. Nino sin lentes de contacto en un lugar lleno de gente disfrazada — su mala vista canónica, convertida en catástrofe. El listón de Yotsuba delatándola. Miku disfrazándose mejor que todas. El cuaderno de fichas cayéndose en el peor momento posible. Y él, corriendo.
+
+**11. "El sexto asiento"** · *POV Nino*
+Resolución. La elección y sus consecuencias para las cuatro restantes. Epílogo: la caja bajo la cama, abierta y a la vista. *"Yo puedo sola"* se convierte en *"no tengo que poder sola"*.
 
 ---
 
-## FASE 3 — Estructura de los 11 capítulos
+## Motivos recurrentes
+La caja de detergente (cerrada Cap. 1 → entreabierta Cap. 9 → abierta Cap. 11) · el cuaderno de fichas de Nino · la alarma de las dos horas · *"quiero ser alguien que alguien necesite"* dicho por Fuutarou, por Deku y al revés por Rin · la chaqueta prestada · el té negro con demasiada azúcar contra el té de cebada.
 
-Estructura en cuatro actos, con cierre de capítulo tipo *cliffhanger* suave (frase corta, giro emocional) al estilo novela ligera. Extensión objetivo: 3.000–4.500 palabras por capítulo.
-
-**ACTO I — El descubrimiento (Caps. 1–3)**
-1. **"Lo que hay debajo de la cama."** Post-confesión. Sesión de estudio en casa de los Uesugi. Nino, incómoda por su propia declaración, encuentra la caja. Fuutarou casi la mata del susto. Ella no dice nada. *Cierre: decide que ese silencio vale más que cualquier confesión.*
-2. **"Investigación de campo."** Nino interroga a Raiha, compra su primer tomo, ve su primer episodio a las 3 a.m. y llora. Cuaderno de fichas. *Cierre: Ichika la ve salir de la tienda con la bolsa.*
-3. **"Prueba de conocimiento."** Nino suelta una referencia exacta en medio de una clase. Fuutarou se paraliza. Primera conversación real entre los dos, dos horas, sin tutoría de por medio. *Cierre: las otras cuatro entienden que Nino encontró una puerta.*
-
-**ACTO II — La carrera armamentística (Caps. 4–7)**
-4. **"Cinco planes."** Capítulo coral: cada hermana elige su estrategia. Consejo de guerra en el apartamento. Comedia + establecimiento de reglas.
-5. **"El uniforme equivocado" (Ichika).** El cosplay. Escena de máxima tensión física del primer tramo: Fuutarou reconoce el personaje antes que a la chica. Ichika juega sucio y lo sabe.
-6. **"Los generales y los héroes" (Miku).** Miku y Fuutarou a solas: el paralelo entre sus obsesiones. El capítulo más tierno y el más silencioso. Nino se entera y siente miedo real por primera vez.
-7. **"La que no compite" (Yotsuba / Itsuki).** Yotsuba se retira antes de empezar; Itsuki, defendiéndola, se delata a sí misma. Golpe emocional del acto.
-
-**ACTO III — La escalada (Caps. 8–9)**
-8. **"La voz."** Llega la seiyū. Fuutarou queda expuesto delante de las cinco. La adulta les dice lo que ninguna quiere oír: que están compitiendo por un chico que nunca ha podido elegir nada en su vida.
-9. **"Dos horas al día."** Capítulo Nino–Fuutarou. Él le cuenta por qué esas dos horas existen. Momento de mayor intimidad del fic. Y la peor pelea. *Cierre: la convención es en tres días.*
-
-**ACTO IV — La convención (Caps. 10–11)**
-10. **"Batalla final."** La convención. Cinco planes chocando, un concurso, una separación entre la multitud, y Fuutarou corriendo. Clímax.
-11. **"El sexto asiento."** Resolución. Elección, consecuencias para las cuatro restantes, y un epílogo que cierra el círculo: la caja bajo la cama, ahora abierta. *Título alterno: "Ya no hace falta esconderlo."*
+## Tono
+Tensión romántica alta: proximidad prolongada, conciencia del cuerpo del otro, habitaciones pequeñas, ropa prestada, celos con filo, cosplay que expone más de lo que la portadora calculó, lenguaje adulto puntual. **Sin escenas sexuales explícitas.** Regla de oro: la escena más caliente del fic debe ser una conversación.
 
 ---
 
-**Motivos recurrentes:** la caja de detergente · el cuaderno de fichas de Nino · el reloj marcando las dos horas · la frase "quiero ser alguien que alguien necesite" · la bufanda/chaqueta prestada.
-
----
-
-¿Le damos luz verde? Con tu señal empiezo el **Capítulo 1**.
+**Listo para escribir el Capítulo 1** en cuanto confirmes el título y el POV alternante.
