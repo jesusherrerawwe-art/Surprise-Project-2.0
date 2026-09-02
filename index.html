@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>La Waifu de la Segunda — Fanfic</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@400;700;900&family=Shippori+Mincho:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#1a1520;
+  --paper:#fbf6f2;
+  --rose:#e4738f;
+  --rose-deep:#b8476a;
+  --gold:#e0b25e;
+  --violet:#6d5a8c;
+  --muted:#8d8090;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:'Zen Maru Gothic',system-ui,sans-serif;
+  line-height:1.75;
+  overflow-x:hidden;
+}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+
+/* ---------- decor ---------- */
+.petals{position:fixed;inset:0;pointer-events:none;z-index:0;overflow:hidden}
+.petal{position:absolute;width:14px;height:14px;background:var(--rose);opacity:.16;
+  border-radius:14px 0 14px 0;animation:fall linear infinite}
+@keyframes fall{
+  0%{transform:translateY(-10vh) rotate(0deg)}
+  100%{transform:translateY(110vh) rotate(540deg)}
+}
+
+/* ---------- hero ---------- */
+header.hero{
+  position:relative;z-index:1;
+  min-height:100vh;display:flex;align-items:center;
+  background:
+    radial-gradient(900px 500px at 80% 10%, rgba(228,115,143,.22), transparent 70%),
+    radial-gradient(700px 500px at 10% 90%, rgba(109,90,140,.20), transparent 70%);
+}
+.kicker{
+  font-family:'Shippori Mincho',serif;letter-spacing:.5em;text-transform:uppercase;
+  font-size:.72rem;color:var(--rose-deep);margin-bottom:22px;
+}
+h1{
+  font-family:'Shippori Mincho',serif;font-weight:800;
+  font-size:clamp(2.8rem,8vw,5.6rem);line-height:1.04;letter-spacing:-.02em;
+}
+h1 em{font-style:normal;color:var(--rose-deep);position:relative;display:inline-block}
+h1 em::after{content:"";position:absolute;left:0;right:0;bottom:.12em;height:.22em;
+  background:var(--gold);opacity:.35;z-index:-1}
+.tag{
+  margin-top:26px;font-size:1.14rem;max-width:46ch;color:#4b4152;
+}
+.meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:34px}
+.chip{
+  border:1px solid rgba(26,21,32,.16);border-radius:999px;padding:7px 16px;
+  font-size:.78rem;letter-spacing:.06em;background:rgba(255,255,255,.6);
+}
+.chip.hot{background:var(--rose-deep);color:#fff;border-color:transparent}
+.cta{display:flex;gap:14px;margin-top:40px;flex-wrap:wrap}
+.btn{
+  display:inline-block;padding:15px 34px;border-radius:999px;text-decoration:none;
+  font-weight:700;font-size:.94rem;transition:.25s;
+}
+.btn-p{background:var(--ink);color:var(--paper)}
+.btn-p:hover{background:var(--rose-deep);transform:translateY(-3px)}
+.btn-s{border:1.5px solid rgba(26,21,32,.25);color:var(--ink)}
+.btn-s:hover{border-color:var(--ink);transform:translateY(-3px)}
+.numeral{
+  position:absolute;right:-2vw;top:50%;transform:translateY(-50%);
+  font-family:'Shippori Mincho',serif;font-size:44vw;line-height:1;
+  color:var(--rose);opacity:.055;pointer-events:none;user-select:none;
+}
+
+/* ---------- sections ---------- */
+section{position:relative;z-index:1;padding:110px 0}
+.sec-title{
+  font-family:'Shippori Mincho',serif;font-size:clamp(1.7rem,4vw,2.6rem);
+  font-weight:800;margin-bottom:12px;
+}
+.sec-sub{color:var(--muted);font-size:.86rem;letter-spacing:.22em;
+  text-transform:uppercase;margin-bottom:38px}
+
+/* synopsis */
+.syn{background:#fff;border-radius:28px;padding:clamp(30px,5vw,62px);
+  box-shadow:0 30px 70px -40px rgba(26,21,32,.45)}
+.syn p{margin-bottom:20px;font-size:1.05rem}
+.syn p:first-of-type::first-letter{
+  font-family:'Shippori Mincho',serif;font-size:3.6rem;float:left;line-height:.85;
+  padding:6px 12px 0 0;color:var(--rose-deep);font-weight:800;
+}
+.pull{border-left:3px solid var(--gold);padding-left:22px;font-family:'Shippori Mincho',serif;
+  font-size:1.2rem;font-style:italic;color:var(--violet);margin:32px 0}
+
+/* cast */
+.cast{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:18px}
+.card{
+  background:#fff;border-radius:22px;padding:26px 24px;position:relative;overflow:hidden;
+  border:1px solid rgba(26,21,32,.06);transition:.3s;
+}
+.card:hover{transform:translateY(-8px);box-shadow:0 26px 50px -30px rgba(26,21,32,.5)}
+.card::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;background:var(--c)}
+.card .no{font-family:'Shippori Mincho',serif;font-size:2.4rem;color:var(--c);opacity:.3;line-height:1}
+.card h3{font-family:'Shippori Mincho',serif;font-size:1.3rem;margin:2px 0 4px}
+.card .role{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+.card p{font-size:.92rem;color:#584f60}
+
+/* chapters */
+.chapters{border-top:1px solid rgba(26,21,32,.12)}
+.ch{
+  display:grid;grid-template-columns:64px 1fr auto;gap:20px;align-items:center;
+  padding:22px 10px;border-bottom:1px solid rgba(26,21,32,.12);transition:.25s;
+}
+.ch:hover{background:#fff;padding-left:22px}
+.ch .n{font-family:'Shippori Mincho',serif;font-size:1.5rem;color:var(--rose-deep);opacity:.6}
+.ch h4{font-size:1.06rem;font-weight:700}
+.ch small{display:block;color:var(--muted);font-size:.85rem;font-weight:400}
+.state{font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;
+  padding:6px 13px;border-radius:999px;white-space:nowrap}
+.s-soon{background:rgba(26,21,32,.07);color:var(--muted)}
+.s-next{background:var(--gold);color:#4a3410;font-weight:700}
+.act{margin:44px 0 6px;font-family:'Shippori Mincho',serif;font-size:.82rem;
+  letter-spacing:.3em;text-transform:uppercase;color:var(--violet)}
+
+/* footer */
+footer{background:var(--ink);color:#d9d1e0;padding:70px 0 50px;position:relative;z-index:1}
+footer .sec-title{color:#fff}
+footer a{color:var(--gold)}
+.fnote{font-size:.86rem;color:#9a90a6;margin-top:22px;max-width:56ch}
+@media(max-width:600px){
+  .ch{grid-template-columns:44px 1fr;gap:14px}
+  .ch .state{grid-column:2;justify-self:start;margin-top:6px}
+}
+</style>
+</head>
+<body>
+<div class="petals" id="petals"></div>
+
+<header class="hero">
+  <div class="numeral">5</div>
+  <div class="wrap">
+    <div class="kicker">Fanfic · Go-Tōbun no Hanayome</div>
+    <h1>La waifu<br>de la <em>segunda</em></h1>
+    <p class="tag">Nino Nakano ya se confesó. Ahora sabe algo que nadie más sabe: lo que Fuutarou Uesugi esconde debajo de su cama.</p>
+    <div class="meta">
+      <span class="chip hot">+16</span>
+      <span class="chip">11 capítulos</span>
+      <span class="chip">Romance · Comedia · Drama</span>
+      <span class="chip">Novela ligera</span>
+      <span class="chip">Proyecto Wattpad</span>
+    </div>
+    <div class="cta">
+      <a class="btn btn-p" href="#capitulos">Ver los capítulos</a>
+      <a class="btn btn-s" href="#sinopsis">Leer la sinopsis</a>
+    </div>
+  </div>
+</header>
+
+<section id="sinopsis">
+  <div class="wrap">
+    <div class="sec-sub">01 — Sinopsis</div>
+    <h2 class="sec-title">Dos horas al día</h2>
+    <div class="syn">
+      <p>Poco después de que Nino Nakano confesara sus sentimientos por Fuutarou —esta vez asegurándose de que la escuchara—, un par de días más tarde descubre un secreto sobre él durante una sesión de estudio.</p>
+      <p>Cuando no está estudiando, en la privacidad de su habitación pobre y por solo un par de horas, Fuutarou Uesugi es en realidad un otaku apasionado. Esconde mangas debajo de la cama. Su anime favorito es <em>My Hero Academia</em>, entre muchos otros.</p>
+      <p class="pull">Él jamás lo admitiría en voz alta. Pero ella ya lo sabe. Y planea usarlo a su favor.</p>
+      <p>Nino, alguien que ni en un millón de años se habría fijado en ese tipo de cosas, vio algo en sus ojos cansados y serios: que él anhelaba en secreto tener con quién hablar de todo eso, fuera de la escuela y del trabajo. Así que se dará la tarea de investigarlo absolutamente todo. Cada personaje, cada serie, cada frase. La personalidad y la actitud exactas de su waifu favorita. Todo con tal de ganarse su corazón.</p>
+      <p>Lo que no sabe es que sus hermanas ya pusieron en marcha sus propios planes. Entre ellos, un cosplay, la visita de cierta seiyū famosa y una convención de anime que se convertirá en la batalla final de las cinco.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-sub">02 — Elenco</div>
+    <h2 class="sec-title">Cinco novias, cinco estrategias</h2>
+    <div class="cast">
+      <div class="card" style="--c:#e0656a"><div class="no">壱</div><h3>Ichika</h3><div class="role">La actriz</div><p>Escuchó la confesión de Nino. Tiene contactos, vestuario y la peor idea de todas: el cosplay.</p></div>
+      <div class="card" style="--c:#e4a04c"><div class="no">弐</div><h3>Nino</h3><div class="role">La que ya lo dijo</div><p>Odia estudiar. Ahora llena un cuaderno de fichas de personajes. Por él. Y, poco a poco, por ella misma.</p></div>
+      <div class="card" style="--c:#6d8fd6"><div class="no">参</div><h3>Miku</h3><div class="role">La general</div><p>Siempre fue una nerd de los guerreros del Sengoku. Y él nunca, ni una vez, se burló de eso.</p></div>
+      <div class="card" style="--c:#59b58d"><div class="no">肆</div><h3>Yotsuba</h3><div class="role">La que no compite</div><p>La que entra más natural al hobby y la que primero se prohíbe a sí misma querer ganar.</p></div>
+      <div class="card" style="--c:#a97bc9"><div class="no">伍</div><h3>Itsuki</h3><div class="role">La negación</div><p>Insiste en que solo lo lee como material didáctico. Nadie le cree. Ella tampoco.</p></div>
+      <div class="card" style="--c:#4a4453"><div class="no">零</div><h3>Fuutarou</h3><div class="role">El secreto</div><p>Dos horas al día. Ni una más. Es lo único en su vida que no le pertenece a nadie más.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="capitulos">
+  <div class="wrap">
+    <div class="sec-sub">03 — Índice</div>
+    <h2 class="sec-title">Once capítulos</h2>
+
+    <div class="act">Acto I — El descubrimiento</div>
+    <div class="chapters">
+      <div class="ch"><div class="n">01</div><div><h4>Lo que hay debajo de la cama</h4><small>Una sesión de estudio, una caja de detergente y un silencio que ella decide guardar.</small></div><span class="state s-next">Siguiente</span></div>
+      <div class="ch"><div class="n">02</div><div><h4>Investigación de campo</h4><small>Raiha habla de más. Nino ve su primer episodio a las tres de la mañana y llora.</small></div><span class="state s-soon">Próximamente</span></div>
+      <div class="ch"><div class="n">03</div><div><h4>Prueba de conocimiento</h4><small>Una referencia exacta en medio de una clase. Dos horas de conversación sin tutoría de por medio.</small></div><span class="state s-soon">Próximamente</span></div>
+
+      <div class="act">Acto II — La carrera armamentística</div>
+      <div class="ch"><div class="n">04</div><div><h4>Cinco planes</h4><small>Consejo de guerra en el apartamento Nakano. Cada hermana elige su arma.</small></div><span class="state s-soon">Próximamente</span></div>
+      <div class="ch"><div class="n">05</div><div><h4>El uniforme equivocado</h4><small>Ichika juega sucio. Él reconoce al personaje antes que a la chica.</small></div><span class="state s-soon">Próximamente</span></div>
+      <div class="ch"><div class="n">06</div><div><h4>Los generales y los héroes</h4><small>Miku y Fuutarou, a solas. El capítulo más silencioso. Nino siente miedo real por primera vez.</small></div><span class="state s-soon">Próximamente</span></div>
+      <div class="ch"><div class="n">07</div><div><h4>La que no compite</h4><small>Yotsuba se retira antes de empezar. Itsuki, al defenderla, se delata a sí misma.</small></div><span class="state s-soon">Próximamente</span></div>
+
+      <div class="act">Acto III — La escalada</div>
+      <div class="ch"><div class="n">08</div><div><h4>La voz</h4><small>Llega la seiyū. Y les dice a las cinco lo que ninguna quiere escuchar.</small></div><span class="state s-soon">Próximamente</span></div>
+      <div class="ch"><div class="n">09</div><div><h4>Dos horas al día</h4><small>Él le cuenta por qué existen esas dos horas. Después viene la peor pelea.</small></div><span class="state s-soon">Próximamente</span></div>
+
+      <div class="act">Acto IV — La convención</div>
+      <div class="ch"><div class="n">10</div><div><h4>Batalla final</h4><small>Cinco planes chocando entre la multitud. Y él, corriendo.</small></div><span class="state s-soon">Próximamente</span></div>
+      <div class="ch"><div class="n">11</div><div><h4>El sexto asiento</h4><small>La caja debajo de la cama, por fin abierta.</small></div><span class="state s-soon">Próximamente</span></div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="sec-sub" style="color:#7d7288">04 — Nota</div>
+    <h2 class="sec-title">Obra derivada, hecha con cariño</h2>
+    <p class="fnote">Fanfic sin fines de lucro basado en <em>Go-Tōbun no Hanayome</em> de Negi Haruba. Todos los personajes pertenecen a su autor y editorial. La historia parte del capítulo 60 del manga y diverge a partir de ahí. Contenido +16: tensión romántica, lenguaje adulto puntual, nada explícito.</p>
+    <p class="fnote">Plan de producción en <a href="PLAN.md">PLAN.md</a> · Biblia de personajes e investigación en <a href="BIBLIA.md">BIBLIA.md</a>.</p>
+  </div>
+</footer>
+
+<script>
+const p=document.getElementById('petals');
+for(let i=0;i<26;i++){
+  const d=document.createElement('div');d.className='petal';
+  d.style.left=Math.random()*100+'vw';
+  d.style.animationDuration=(9+Math.random()*14)+'s';
+  d.style.animationDelay=(-Math.random()*20)+'s';
+  const s=8+Math.random()*14;d.style.width=s+'px';d.style.height=s+'px';
+  d.style.opacity=.08+Math.random()*.14;
+  if(i%3===0)d.style.background='#6d5a8c';
+  if(i%5===0)d.style.background='#e0b25e';
+  p.appendChild(d);
+}
+</script>
+</body>
+</html>
