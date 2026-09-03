@@ -11,10 +11,10 @@ Fanfic de 11 capítulos · Universo *Go-Tōbun no Hanayome* · Romance · Tensi�
 |---|---|
 | Anime ficticio *Hagane no Ōkami* y waifu inventada "Kurogane Rin" | **Series y personajes reales.** La waifu es **Rin Tōsaka** (*Fate/stay night*), con MHA como serie del corazón |
 | Referencias reales solo de fondo | Las referencias reales son **el material dramático**: cada hermana tiene su serie asignada y significa algo |
-| Seiyū OC voz de un personaje inventado | Seiyū OC **Kanade Amamiya**, veterana del medio (única pieza que sigue siendo original — ver nota) |
+| Seiyū OC voz de un personaje inventado | Seiyū OC **Kanade Amamiya**, que dentro del fic es **la voz de Rin Tōsaka** (única pieza original — ver nota) |
 | Tono "+16 suave" | **Tensión romántica alta y explícita en lo emocional**, no en lo sexual |
 
-**Nota sobre la seiyū:** es lo único que dejo inventado. Meter a una actriz de voz real y ponerla a decir diálogo que nunca dijo, en una trama donde es prácticamente la antagonista, se siente distinto a citar una serie. Kanade Amamiya queda como personaje original que trabaja en la industria real. Si prefieres que sea real, dímelo y lo cambio.
+**Nota sobre la seiyū:** es lo único que queda inventado, y a propósito. Dentro del fic, **Kanade Amamiya es la voz de Rin Tōsaka**: tiene exactamente el papel y el peso dramático que necesitaba la trama. La diferencia es que no le estamos atribuyendo conducta inventada —coqueteo con un menor incluido— a una actriz que existe en la vida real. El planteamiento queda intacto y además gana: siendo OC puedo darle toda la personalidad que el papel pide.
 
 ---
 
@@ -69,7 +69,10 @@ Esto convierte el Capítulo 4 ("Cinco planes") en algo mucho mejor: no es un con
 
 ### 3.4 La seiyū y la convención
 
-- **Kanade Amamiya**, 29 años, veterana de doblaje. Llega por la agencia de Ichika. No es un cameo: es la adulta que les dice a las cinco lo que ninguna quiere oír. *"Llevo diez años prestándole la voz a chicas que otros aman. Ustedes están peleándose por un chico al que nunca le han preguntado qué quiere."*
+- **Kanade Amamiya**, 29 años, veterana de doblaje y **la voz de Rin Tōsaka**. Llega por la agencia de Ichika.
+  **Registro: onee-san coqueta.** Se divierte muchísimo con Fuutarou. Lo llama *"Uesugi-kun"* alargando la u, se le acerca demasiado, le habla al oído *con la voz del personaje* —que es el arma más sucia posible contra este chico en concreto— y disfruta viéndolo cortocircuitar. No está enamorada de él: está aburrida, es guapa, y él es la cosa más divertida que ha visto en meses. Para las cinco hermanas es una amenaza nuclear, porque es todo lo que ellas no son: adulta, segura, y **dueña legítima de la voz que él escucha en privado**.
+  Pero el coqueteo es la superficie. Debajo hay una mujer agotada, y cuando deja de jugar suelta la única verdad que nadie quiso decir: *"Llevo diez años prestándole la voz a chicas que otros aman. Ustedes están peleándose por un chico al que nunca le han preguntado qué quiere."*
+  **El golpe maestro del Cap. 8:** Nino lleva semanas estudiando a Rin para parecerse a ella. Y entonces entra por la puerta la mujer que *literalmente es* Rin, sin esforzarse. Es el peor espejo posible, y llega justo cuando Nino creía que iba ganando.
 - **La convención: AnimeJapan**, en Tokyo Big Sight. Ahora que usamos referencias reales, el evento también lo es, y encaja con el calendario sin forzar nada: el canon nos deja en **febrero** (post-San Valentín) y AnimeJapan se celebra a **finales de marzo**. Los once capítulos cubren exactamente ese mes y medio, y el clímax cae justo al cierre del curso escolar.
   Clímax en los Caps. 10–11. Miles de personas viviendo abiertamente lo que él vive dos horas al día encerrado. La convención no le enseña que tiene un hobby: le enseña que **no estaba solo, solo estaba escondido.**
 
@@ -77,8 +80,10 @@ Esto convierte el Capítulo 4 ("Cinco planes") en algo mucho mejor: no es un con
 
 ## FASE 4 — Estructura de los 11 capítulos
 
-Cuatro actos. 3.000–4.500 palabras por capítulo. Cierre con frase corta que reencuadra todo lo anterior.
-POV alternante en primera persona (Nino / Fuutarou), con capítulos corales en tercera cercana.
+Cuatro actos. **~5.000 palabras por capítulo** (≈55.000 en total). Cierre con frase corta que reencuadra todo lo anterior.
+**POV alternante en primera persona** (Nino / Fuutarou), con capítulos corales en tercera cercana.
+
+A 5.000 palabras cada capítulo aguanta **tres o cuatro escenas** en vez de dos, así que hay sitio para lo que hace que una novela ligera se sienta genuina: la escena cómica de relleno antes del golpe, el momento doméstico que no avanza la trama pero construye la casa, y el monólogo interno largo donde el personaje se contradice a sí mismo.
 
 ### ACTO I — El descubrimiento
 
@@ -112,7 +117,11 @@ Yotsuba es la que más natural entra: canónicamente ya veía anime. Era la más
 ### ACTO III — La escalada
 
 **8. "La voz"** · *Coral*
-Llega Kanade Amamiya. Fuutarou queda expuesto delante de las cinco. La seiyū funciona como espejo de Ichika — la actriz que terminó siendo la máscara — y les dice a todas la verdad incómoda.
+Llega Kanade Amamiya, y con ella el registro **onee-san coqueta**: se le pega a Fuutarou, lo llama *"Uesugi-kun"* con retintín, le habla al oído con la voz de Rin y lo ve cortocircuitar. Fuutarou queda expuesto delante de las cinco al reconocerla sin pensar — la mayor humillación posible, porque demuestra cuántas horas ha pasado escuchándola.
+
+Cuatro chicas se mueren de celos y una se muere de otra cosa: **Nino lleva semanas estudiando a Rin, y acaba de entrar por la puerta la mujer que literalmente es Rin, sin esforzarse.**
+
+Después Kanade deja de jugar. Funciona como espejo de Ichika —la actriz que terminó siendo la máscara— y les suelta a todas la verdad incómoda.
 
 **9. "Dos horas al día"** · *POV Fuutarou*
 El capítulo Nino–Fuutarou. Él le cuenta por qué existen esas dos horas: la regla que se impuso a los trece años, la laptop del café cerrado, su madre, y por qué lloró con el primer episodio sin entender por qué. Momento de mayor intimidad del fic. **Apaga la alarma por primera vez.** Y después viene la peor pelea, porque ella admite que empezó investigándolo como una estrategia.
@@ -133,6 +142,8 @@ La caja de detergente (cerrada Cap. 1 → entreabierta Cap. 9 → abierta Cap. 1
 
 ## Tono
 Tensión romántica alta: proximidad prolongada, conciencia del cuerpo del otro, habitaciones pequeñas, ropa prestada, celos con filo, cosplay que expone más de lo que la portadora calculó, lenguaje adulto puntual. **Sin escenas sexuales explícitas.** Regla de oro: la escena más caliente del fic debe ser una conversación.
+
+**Sobre el registro coqueto (Kanade, Ichika):** el coqueteo entre una adulta y Fuutarou se juega siempre como **comedia de reacción** — el chiste es él cortocircuitando, no ella cazándolo. Ella provoca porque se aburre y porque puede; en cuanto la cosa amenaza con ir en serio, es la primera en cortarla. Eso mantiene el filo, dispara los celos de las cinco, y deja a la adulta como alguien con criterio en vez de como una depredadora.
 
 ---
 
