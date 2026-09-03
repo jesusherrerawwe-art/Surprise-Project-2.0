@@ -182,7 +182,9 @@ Esto vuelve el Cap. 4 mucho mejor: no es un consejo de guerra abstracto, es **ci
 - Línea nuclear (Cap. 8): *"Llevo diez años prestándole mi voz a chicas que otros aman. Puedo decirles algo desde aquí: ustedes cinco están peleándose por un chico al que nunca, ni una sola vez, le han preguntado qué quiere. Están compitiendo por el derecho a decidir por él."*
 - Espejo de Ichika: la actriz que terminó siendo la máscara.
 
-### C.5 La convención
+### C.5 La convención: **AnimeJapan** (Tokyo Big Sight)
+
+El canon nos deja en febrero y AnimeJapan es a finales de marzo: los once capítulos cubren ese mes y medio y el clímax cae al cierre del curso.
 
 Escenario del clímax (Caps. 10–11). Funciones narrativas:
 1. **Público:** el secreto deja de ser privado. Tiene que decidir si se avergüenza delante de todos.
@@ -227,7 +229,7 @@ Escenario del clímax (Caps. 10–11). Funciones narrativas:
 |---|---|---|---|---|
 | 1 | Lo que hay debajo de la cama | Nino | Descubrimiento. Ella calla. | Sin TV en casa: lo pilla con audífonos y una laptop vieja. El bochorno es doble. |
 | 2 | Investigación de campo | Nino | Se arma. Llora a las 3 a.m. | Nino y Raiha **casi nunca han hablado** → escena inédita y tensa. |
-| 3 | Prueba de conocimiento | Fuutarou | Primera conversación real. | Él no ha hablado del tema con nadie **en su vida**. Reacción desproporcionada. |
+| 3 | Yo puedo sola | Fuutarou | Primera conversación real. | Él no ha hablado del tema con nadie **en su vida**. Reacción desproporcionada. |
 | 4 | Cinco planes | Coral | Consejo de guerra. Reglas del juego. | El Principio Go-tōbun se somete a votación. |
 | 5 | El uniforme equivocado | Ichika | Cosplay. Máxima tensión física. | Reconoce el personaje antes que a la chica → la herida de la "sonrisa falsa". |
 | 6 | Los generales y los héroes | Miku | Reconocimiento mutuo, no estrategia. | Sengoku vs. héroes: el canon ya hizo esta escena, la replicamos invertida. |

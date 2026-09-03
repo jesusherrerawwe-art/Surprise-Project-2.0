@@ -70,7 +70,8 @@ Esto convierte el Capítulo 4 ("Cinco planes") en algo mucho mejor: no es un con
 ### 3.4 La seiyū y la convención
 
 - **Kanade Amamiya**, 29 años, veterana de doblaje. Llega por la agencia de Ichika. No es un cameo: es la adulta que les dice a las cinco lo que ninguna quiere oír. *"Llevo diez años prestándole la voz a chicas que otros aman. Ustedes están peleándose por un chico al que nunca le han preguntado qué quiere."*
-- **La convención:** clímax en los Caps. 10–11. Miles de personas viviendo abiertamente lo que él vive dos horas al día encerrado. La convención no le enseña que tiene un hobby: le enseña que **no estaba solo, solo estaba escondido.**
+- **La convención: AnimeJapan**, en Tokyo Big Sight. Ahora que usamos referencias reales, el evento también lo es, y encaja con el calendario sin forzar nada: el canon nos deja en **febrero** (post-San Valentín) y AnimeJapan se celebra a **finales de marzo**. Los once capítulos cubren exactamente ese mes y medio, y el clímax cae justo al cierre del curso escolar.
+  Clímax en los Caps. 10–11. Miles de personas viviendo abiertamente lo que él vive dos horas al día encerrado. La convención no le enseña que tiene un hobby: le enseña que **no estaba solo, solo estaba escondido.**
 
 ---
 
@@ -89,7 +90,7 @@ Dos días después de la confesión. Sesión de estudio en el apartamento Uesugi
 Interroga a Raiha — dos personas que canónicamente casi nunca se han hablado, lo que vuelve la escena tensa y rarísima. Raiha suelta todo sin malicia, porque para ella no tiene nada de raro. Nino compra su primer tomo de segunda mano, se sienta a las 3 a.m. con el primer episodio de MHA y **llora**. Se enoja consigo misma. Abre el cuaderno de fichas.
 *Cierre: Ichika la ve entrar con la bolsa.*
 
-**3. "Prueba de conocimiento"** · *POV Fuutarou*
+**3. "Yo puedo sola"** · *POV Fuutarou*
 Nino suelta una referencia exacta en mitad de una clase. Él se paraliza. Lo que sigue son dos horas de conversación sin tutoría de por medio — la primera de su vida sobre este tema, con nadie. Se le nota que lo ha pensado durante años en silencio.
 *Cierre: las otras cuatro entienden que Nino encontró una puerta.*
 
