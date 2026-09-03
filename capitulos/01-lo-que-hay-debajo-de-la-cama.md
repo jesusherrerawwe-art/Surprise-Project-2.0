@@ -574,7 +574,7 @@ Lo abrí en la primera página en blanco.
 
 Y me quedé mirándola un rato largo, con el bolígrafo en la mano, sintiéndome la persona más ridícula del planeta Tierra.
 
-Nino Nakano. La que se duerme en clase. La que tiene las peores notas de las cinco. La que odia estudiar con un odio puro y personal, la que ha inventado enfermedades para no ir a la escuela, la que una vez le puso pastillas para dormir a un tutor —dos veces, **sí, ya lo sé**— con tal de no tener que abrir un libro.
+Nino Nakano. La que se duerme en clase. La que tiene las peores notas de las cinco. La que odia estudiar con un odio puro y personal, la que ha inventado enfermedades para no ir a la escuela, la que le puso pastillas para dormir a un tutor —dos veces, **sí, ya lo sé**— con tal de sacarlo de su casa.
 
 Esa chica.
 

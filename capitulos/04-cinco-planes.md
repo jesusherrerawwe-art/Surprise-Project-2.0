@@ -242,7 +242,7 @@ Y se le fue apagando la voz.
 
 —Estaba pensando que podía decir «en estudiar» —admitió Itsuki, y se puso la mano en la cara— y me di cuenta a mitad de la frase de que ese chico ya estudia más que las cinco juntas. Y de que se levanta a las cinco y media. Y de que trabaja tres tardes.
 
-Silencio.
+Nadie dijo nada.
 
 —Dos horas no es tanto —dijo Itsuki, derrotada.
 
@@ -338,7 +338,7 @@ Porque era verdad. Y porque ninguna lo había pensado hasta que Ichika lo dijo e
 
 —Ichika —dijo Nino—. Se puso rojo.
 
-Silencio.
+Un silencio corto.
 
 —¿Y?
 
@@ -618,7 +618,7 @@ Y la miró un segundo de más antes de girarse hacia la pizarra.
 
 Itsuki se pasó los siguientes cuatro minutos explicando, sin que nadie se lo pidiera, que existe una obra bastante conocida sobre una clase de estudiantes con dificultades y un profesor poco convencional, y que ella la había ojeado en su momento por interés **estrictamente pedagógico**, dado que planea dedicarse a la enseñanza, y que le parecía un material interesante para analizar las dinámicas de aula aunque evidentemente la premisa era absurda y ella no se la había tomado en serio en ningún momento.
 
-Silencio.
+Nadie respiró.
 
 —¿Cuántos capítulos llevas? —preguntó Nino.
 
@@ -773,7 +773,7 @@ Miku no dijo nada.
 
 —Y es la que mejor le va a él. —Se rió, sin ganas—. Es de un chico que dejó de correr porque le hicieron algo horrible y que se pasa toda la serie diciendo que ya no le importa. Y le importa muchísimo.
 
-Silencio.
+Miku no contestó enseguida.
 
 —Yotsuba—
 

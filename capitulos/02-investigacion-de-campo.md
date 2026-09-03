@@ -152,7 +152,7 @@ Después se rió tanto que se atragantó con el té de cebada y tuve que darle g
 
 —¿La primera?
 
-—Todas vienen a preguntarme cosas de onii-chan —levantó la mano y empezó a contar con los dedos—. Yotsuba-san me pregunta qué comida le gusta. Itsuki-san me pregunta si duerme bien. La mayor, la del pelo corto—
+—Todas vienen a preguntarme cosas de Onii-chan —levantó la mano y empezó a contar con los dedos—. Yotsuba-san me pregunta qué comida le gusta. Itsuki-san me pregunta si duerme bien. La mayor, la del pelo corto—
 
 —Ichika.
 
@@ -522,7 +522,7 @@ Vino así, entero, sin avisar:
 
 *Él tenía trece años.*
 
-Trece. Cuando empezó. Trece años, una madre muerta hacía siete, una hermana de seis a la que estaba criando, un padre que se llevaba el dinero de la casa, y sin televisión. Trece años y una laptop de un negocio quebrado.
+Trece. Cuando empezó. Trece años, una madre muerta hacía siete, una hermana de ocho a la que estaba criando, un padre que se llevaba el dinero de la casa, y sin televisión. Trece años y una laptop de un negocio quebrado.
 
 Y se sentó a ver a un chico que no tiene nada y al que todos le dicen que no puede, levantarse del suelo.
 
@@ -541,6 +541,48 @@ No en la cara. Peor. Por dentro. El domingo, cuando lo vi ponerse rojo, yo pens�
 Cerré el tomo.
 
 Y me quedé mucho rato sentada en el suelo, mirando la portada, con el pulgar en la esquina de la tapa.
+
+---
+
+Y después hice una cosa que no estaba en ningún plan.
+
+Saqué la laptop.
+
+Es una laptop rosa que me regalaron hace dos años y que uso para ver tiendas y para nada más, y esa noche, a las tres y media de la mañana, con los ojos hinchados y el cuarto tomo cerrado sobre las rodillas, la abrí y busqué la serie.
+
+Y la encontré.
+
+Y ahí estaba el primer episodio, esperando, con la miniatura y todo, como si llevara cuatro años ahí esperando a que alguien lo buscara.
+
+Le di a reproducir.
+
+Y me puse los audífonos —los míos, los blancos, los de la escuela— y me di cuenta a los tres segundos de lo que estaba haciendo.
+
+Estaba sentada en el suelo, con la espalda contra la cama, con audífonos, a las tres y media de la mañana, viendo esto en una laptop para que no se enterara nadie.
+
+Exactamente igual que él.
+
+Con la diferencia de que yo llevaba una noche y él llevaba cuatro años.
+
+Vi tres episodios.
+
+Y en el tercero pasó una cosa que no me esperaba, y es que **oí las voces**.
+
+Porque leer y oír no es lo mismo. Leer es tu propia voz en tu cabeza diciendo las cosas. Oír es otra persona diciéndotelas. Y hay una escena —la misma que me había hecho llorar en el tomo, la del chico que se levanta— en la que alguien le dice una frase, y en el manga esa frase eran cuatro globos de texto.
+
+Y dicha en voz alta era otra cosa completamente distinta.
+
+La rebobiné.
+
+La oí otra vez.
+
+Y a la tercera saqué el cuaderno azul y la escribí, en inglés, tal como sonaba, con mi transcripción de estudiante mediocre de una materia que se supone que es la mía.
+
+*«If I could go back, I would tell him. I'd tell him he can be a hero.»*
+
+Y me quedé mirándola con la sensación rarísima de que le faltaba algo. De que sonaba coja. Pero eran las cuatro menos cuarto y ya no me daba la cabeza para más.
+
+La dejé así.
 
 ---
 

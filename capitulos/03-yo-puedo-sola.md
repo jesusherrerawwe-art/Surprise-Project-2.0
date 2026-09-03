@@ -274,7 +274,7 @@ Bajé la mano.
 
 —…Sí.
 
-—Me lo tuve que ver tres veces para pescarlo. La primera vez lo escribí sin el «too» y me quedé con la sensación de que sonaba raro.
+—Lo tuve que oír tres veces para pescarlo. La primera vez lo escribí sin el «too» y me quedé con la sensación de que sonaba raro.
 
 —Es que sin el «too» pierde todo —dije, antes de poder pararme—. El «too» es la frase entera. Sin el «too» solo le está diciendo que puede ser un héroe. Con el «too» le está diciendo que puede ser un héroe **como él**. Que lo está poniendo a su altura. Ahí está todo. Ahí está el personaje completo, en tres letras.
 
